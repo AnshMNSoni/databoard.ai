@@ -1,0 +1,6093 @@
+{
+  "metadata": {
+    "total_records": 499991,
+    "date_range": {
+      "start": "2025-03-02 00:00:00",
+      "end": "2025-10-26 00:00:00",
+      "days": 238
+    },
+    "states": 36,
+    "districts": 950,
+    "pincodes": 19301,
+    "total_enrollments": 3301013,
+    "processing_timestamp": "2026-01-20T19:20:30.733937",
+    "processing_time_seconds": 15.2,
+    "analysis_modules": [
+      "Intervention Identification",
+      "Demographic Disparities",
+      "Comparative Forecasting (Prophet/ARIMA/LSTM)",
+      "State-wise Forecasting",
+      "Multi-algorithm Anomaly Detection",
+      "Policy Impact Simulation",
+      "Seasonal Pattern Detection",
+      "Summary Statistics",
+      "Composite Intelligence Scores",
+      "Automatic Priority Classification",
+      "State-to-State Similarity Model",
+      "Trend Direction Classifier",
+      "Confidence/Stability Scores",
+      "Auto-Generated Insights"
+    ]
+  },
+  "intervention_areas": [
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram",
+      "findings": {
+        "child_enrollment_ratio": 0.0,
+        "growth_rate": -0.9972,
+        "total_enrollments": 1
+      },
+      "severity_score": 7.0,
+      "priority": "high",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Kanchipuram",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kamle",
+      "findings": {
+        "child_enrollment_ratio": 0.0,
+        "growth_rate": -0.95,
+        "total_enrollments": 1
+      },
+      "severity_score": 6.67,
+      "priority": "high",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Kamle",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Anjaw",
+      "findings": {
+        "child_enrollment_ratio": 0.0,
+        "growth_rate": -0.9048,
+        "total_enrollments": 2
+      },
+      "severity_score": 6.35,
+      "priority": "high",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Anjaw",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Manipur",
+      "district": "Pherzawl",
+      "findings": {
+        "child_enrollment_ratio": 0.0,
+        "growth_rate": -0.8571,
+        "total_enrollments": 1
+      },
+      "severity_score": 6.02,
+      "priority": "high",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Pherzawl",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "district": "Shamator",
+      "findings": {
+        "child_enrollment_ratio": 0.0385,
+        "growth_rate": -0.8333,
+        "total_enrollments": 26
+      },
+      "severity_score": 5.38,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Shamator",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Siang",
+      "findings": {
+        "child_enrollment_ratio": 0.0,
+        "growth_rate": -0.75,
+        "total_enrollments": 3
+      },
+      "severity_score": 5.27,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Lower Siang",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "district": "South Garo Hills",
+      "findings": {
+        "child_enrollment_ratio": 0.069,
+        "growth_rate": -0.8022,
+        "total_enrollments": 145
+      },
+      "severity_score": 4.79,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in South Garo Hills",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Garo Hills",
+      "findings": {
+        "child_enrollment_ratio": 0.094,
+        "growth_rate": -0.8102,
+        "total_enrollments": 149
+      },
+      "severity_score": 4.54,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in East Garo Hills",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "district": "North Garo Hills",
+      "findings": {
+        "child_enrollment_ratio": 0.1594,
+        "growth_rate": -0.855,
+        "total_enrollments": 69
+      },
+      "severity_score": 4.05,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in North Garo Hills",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Longding",
+      "findings": {
+        "child_enrollment_ratio": 0.1587,
+        "growth_rate": -0.8091,
+        "total_enrollments": 63
+      },
+      "severity_score": 3.74,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Longding",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang",
+      "findings": {
+        "child_enrollment_ratio": 0.2,
+        "growth_rate": -0.8649,
+        "total_enrollments": 10
+      },
+      "severity_score": 3.62,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Siang",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Manipur",
+      "district": "Chandel",
+      "findings": {
+        "child_enrollment_ratio": 0.2449,
+        "growth_rate": -0.862,
+        "total_enrollments": 49
+      },
+      "severity_score": 3.05,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Chandel",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "district": "West Jaintia Hills",
+      "findings": {
+        "child_enrollment_ratio": 0.2029,
+        "growth_rate": -0.7221,
+        "total_enrollments": 276
+      },
+      "severity_score": 2.59,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in West Jaintia Hills",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "district": "Wokha",
+      "findings": {
+        "child_enrollment_ratio": 0.2564,
+        "growth_rate": -0.801,
+        "total_enrollments": 39
+      },
+      "severity_score": 2.49,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Wokha",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "district": "Longleng",
+      "findings": {
+        "child_enrollment_ratio": 0.3,
+        "growth_rate": -0.8113,
+        "total_enrollments": 20
+      },
+      "severity_score": 2.02,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Longleng",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "district": "South West Garo Hills",
+      "findings": {
+        "child_enrollment_ratio": 0.3385,
+        "growth_rate": -0.7416,
+        "total_enrollments": 130
+      },
+      "severity_score": 1.06,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in South West Garo Hills",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "district": "South",
+      "findings": {
+        "child_enrollment_ratio": 0.3462,
+        "growth_rate": -0.75,
+        "total_enrollments": 26
+      },
+      "severity_score": 1.03,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in South",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Shrawasti",
+      "findings": {
+        "child_enrollment_ratio": 0.375,
+        "growth_rate": -0.7245,
+        "total_enrollments": 448
+      },
+      "severity_score": 0.5,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Shrawasti",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "district": "Mokokchung",
+      "findings": {
+        "child_enrollment_ratio": 0.3889,
+        "growth_rate": -0.7273,
+        "total_enrollments": 36
+      },
+      "severity_score": 0.35,
+      "priority": "medium",
+      "recommendations": [
+        "Launch targeted campaigns for 0-5 age group in Mokokchung",
+        "Deploy mobile enrollment units to underserved areas",
+        "Collaborate with local health workers for outreach",
+        "Investigate factors causing low growth rate"
+      ]
+    }
+  ],
+  "demographic_disparities": [
+    {
+      "state": "Andaman And Nicobar Islands",
+      "district": "Andamans",
+      "age_breakdown": {
+        "0-5": {
+          "count": 9,
+          "proportion": 1.0
+        },
+        "5-17": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0,
+          "expected": 0.2597,
+          "gap": 0.2597
+        }
+      ]
+    },
+    {
+      "state": "Andaman And Nicobar Islands",
+      "district": "Nicobar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 4,
+          "proportion": 0.5714
+        },
+        "5-17": {
+          "count": 3,
+          "proportion": 0.4286
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5714,
+          "expected": 0.715,
+          "gap": 0.1436
+        }
+      ]
+    },
+    {
+      "state": "Andaman And Nicobar Islands",
+      "district": "Nicobars",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1,
+          "proportion": 1.0
+        },
+        "5-17": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0,
+          "expected": 0.2597,
+          "gap": 0.2597
+        }
+      ]
+    },
+    {
+      "state": "Andaman And Nicobar Islands",
+      "district": "North And Middle Andaman",
+      "age_breakdown": {
+        "0-5": {
+          "count": 14,
+          "proportion": 0.9333
+        },
+        "5-17": {
+          "count": 1,
+          "proportion": 0.0667
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0667,
+          "expected": 0.2597,
+          "gap": 0.193
+        }
+      ]
+    },
+    {
+      "state": "Andaman And Nicobar Islands",
+      "district": "South Andaman",
+      "age_breakdown": {
+        "0-5": {
+          "count": 26,
+          "proportion": 0.8966
+        },
+        "5-17": {
+          "count": 3,
+          "proportion": 0.1034
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1034,
+          "expected": 0.2597,
+          "gap": 0.1563
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Alluri Sitharama Raju",
+      "age_breakdown": {
+        "0-5": {
+          "count": 191,
+          "proportion": 0.9095
+        },
+        "5-17": {
+          "count": 16,
+          "proportion": 0.0762
+        },
+        "18+": {
+          "count": 3,
+          "proportion": 0.0143
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0762,
+          "expected": 0.2597,
+          "gap": 0.1835
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Anakapalli",
+      "age_breakdown": {
+        "0-5": {
+          "count": 62,
+          "proportion": 0.9538
+        },
+        "5-17": {
+          "count": 3,
+          "proportion": 0.0462
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0462,
+          "expected": 0.2597,
+          "gap": 0.2135
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Anantapur",
+      "age_breakdown": {
+        "0-5": {
+          "count": 589,
+          "proportion": 0.9439
+        },
+        "5-17": {
+          "count": 35,
+          "proportion": 0.0561
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0561,
+          "expected": 0.2597,
+          "gap": 0.2036
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Ananthapur",
+      "age_breakdown": {
+        "0-5": {
+          "count": 285,
+          "proportion": 0.9283
+        },
+        "5-17": {
+          "count": 22,
+          "proportion": 0.0717
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0717,
+          "expected": 0.2597,
+          "gap": 0.188
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Ananthapuramu",
+      "age_breakdown": {
+        "0-5": {
+          "count": 389,
+          "proportion": 0.9284
+        },
+        "5-17": {
+          "count": 29,
+          "proportion": 0.0692
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0024
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0692,
+          "expected": 0.2597,
+          "gap": 0.1905
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Annamayya",
+      "age_breakdown": {
+        "0-5": {
+          "count": 94,
+          "proportion": 0.8704
+        },
+        "5-17": {
+          "count": 10,
+          "proportion": 0.0926
+        },
+        "18+": {
+          "count": 4,
+          "proportion": 0.037
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0926,
+          "expected": 0.2597,
+          "gap": 0.1671
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Bapatla",
+      "age_breakdown": {
+        "0-5": {
+          "count": 66,
+          "proportion": 0.8354
+        },
+        "5-17": {
+          "count": 11,
+          "proportion": 0.1392
+        },
+        "18+": {
+          "count": 2,
+          "proportion": 0.0253
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1392,
+          "expected": 0.2597,
+          "gap": 0.1205
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Chittoor",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1057,
+          "proportion": 0.9231
+        },
+        "5-17": {
+          "count": 84,
+          "proportion": 0.0734
+        },
+        "18+": {
+          "count": 4,
+          "proportion": 0.0035
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0734,
+          "expected": 0.2597,
+          "gap": 0.1863
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Cuddapah",
+      "age_breakdown": {
+        "0-5": {
+          "count": 814,
+          "proportion": 0.9367
+        },
+        "5-17": {
+          "count": 55,
+          "proportion": 0.0633
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0633,
+          "expected": 0.2597,
+          "gap": 0.1964
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Dr. B. R. Ambedkar Konaseema",
+      "age_breakdown": {
+        "0-5": {
+          "count": 76,
+          "proportion": 0.9048
+        },
+        "5-17": {
+          "count": 7,
+          "proportion": 0.0833
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0119
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0833,
+          "expected": 0.2597,
+          "gap": 0.1764
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "East Godavari",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1028,
+          "proportion": 0.927
+        },
+        "5-17": {
+          "count": 80,
+          "proportion": 0.0721
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0009
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0721,
+          "expected": 0.2597,
+          "gap": 0.1876
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Eluru",
+      "age_breakdown": {
+        "0-5": {
+          "count": 77,
+          "proportion": 0.875
+        },
+        "5-17": {
+          "count": 10,
+          "proportion": 0.1136
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0114
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1136,
+          "expected": 0.2597,
+          "gap": 0.1461
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Guntur",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1045,
+          "proportion": 0.8811
+        },
+        "5-17": {
+          "count": 140,
+          "proportion": 0.118
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0008
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.118,
+          "expected": 0.2597,
+          "gap": 0.1417
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "K.V.Rangareddy",
+      "age_breakdown": {
+        "0-5": {
+          "count": 8,
+          "proportion": 0.8
+        },
+        "5-17": {
+          "count": 2,
+          "proportion": 0.2
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.2,
+          "expected": 0.2597,
+          "gap": 0.0597
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Kakinada",
+      "age_breakdown": {
+        "0-5": {
+          "count": 138,
+          "proportion": 0.8625
+        },
+        "5-17": {
+          "count": 20,
+          "proportion": 0.125
+        },
+        "18+": {
+          "count": 2,
+          "proportion": 0.0125
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.125,
+          "expected": 0.2597,
+          "gap": 0.1347
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Karim Nagar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 10,
+          "proportion": 0.8333
+        },
+        "5-17": {
+          "count": 2,
+          "proportion": 0.1667
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1667,
+          "expected": 0.2597,
+          "gap": 0.093
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Karimnagar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 83,
+          "proportion": 0.8058
+        },
+        "5-17": {
+          "count": 20,
+          "proportion": 0.1942
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1942,
+          "expected": 0.2597,
+          "gap": 0.0655
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Khammam",
+      "age_breakdown": {
+        "0-5": {
+          "count": 144,
+          "proportion": 0.8
+        },
+        "5-17": {
+          "count": 36,
+          "proportion": 0.2
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.2,
+          "expected": 0.2597,
+          "gap": 0.0597
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Krishna",
+      "age_breakdown": {
+        "0-5": {
+          "count": 794,
+          "proportion": 0.9085
+        },
+        "5-17": {
+          "count": 78,
+          "proportion": 0.0892
+        },
+        "18+": {
+          "count": 2,
+          "proportion": 0.0023
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0892,
+          "expected": 0.2597,
+          "gap": 0.1705
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Kurnool",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1570,
+          "proportion": 0.9345
+        },
+        "5-17": {
+          "count": 109,
+          "proportion": 0.0649
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0006
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0649,
+          "expected": 0.2597,
+          "gap": 0.1948
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Mahabubnagar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1,
+          "proportion": 1.0
+        },
+        "5-17": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0,
+          "expected": 0.2597,
+          "gap": 0.2597
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Medak",
+      "age_breakdown": {
+        "0-5": {
+          "count": 177,
+          "proportion": 0.8119
+        },
+        "5-17": {
+          "count": 41,
+          "proportion": 0.1881
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1881,
+          "expected": 0.2597,
+          "gap": 0.0716
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "N. T. R",
+      "age_breakdown": {
+        "0-5": {
+          "count": 98,
+          "proportion": 0.8596
+        },
+        "5-17": {
+          "count": 13,
+          "proportion": 0.114
+        },
+        "18+": {
+          "count": 3,
+          "proportion": 0.0263
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.114,
+          "expected": 0.2597,
+          "gap": 0.1457
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Nalgonda",
+      "age_breakdown": {
+        "0-5": {
+          "count": 161,
+          "proportion": 0.8429
+        },
+        "5-17": {
+          "count": 30,
+          "proportion": 0.1571
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1571,
+          "expected": 0.2597,
+          "gap": 0.1026
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Nandyal",
+      "age_breakdown": {
+        "0-5": {
+          "count": 129,
+          "proportion": 0.9214
+        },
+        "5-17": {
+          "count": 11,
+          "proportion": 0.0786
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0786,
+          "expected": 0.2597,
+          "gap": 0.1811
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Nellore",
+      "age_breakdown": {
+        "0-5": {
+          "count": 587,
+          "proportion": 0.841
+        },
+        "5-17": {
+          "count": 111,
+          "proportion": 0.159
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.159,
+          "expected": 0.2597,
+          "gap": 0.1007
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Nizamabad",
+      "age_breakdown": {
+        "0-5": {
+          "count": 80,
+          "proportion": 0.8696
+        },
+        "5-17": {
+          "count": 12,
+          "proportion": 0.1304
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1304,
+          "expected": 0.2597,
+          "gap": 0.1293
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Palnadu",
+      "age_breakdown": {
+        "0-5": {
+          "count": 103,
+          "proportion": 0.945
+        },
+        "5-17": {
+          "count": 5,
+          "proportion": 0.0459
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0092
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0459,
+          "expected": 0.2597,
+          "gap": 0.2138
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Parvathipuram Manyam",
+      "age_breakdown": {
+        "0-5": {
+          "count": 73,
+          "proportion": 0.9012
+        },
+        "5-17": {
+          "count": 6,
+          "proportion": 0.0741
+        },
+        "18+": {
+          "count": 2,
+          "proportion": 0.0247
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0741,
+          "expected": 0.2597,
+          "gap": 0.1856
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Prakasam",
+      "age_breakdown": {
+        "0-5": {
+          "count": 841,
+          "proportion": 0.859
+        },
+        "5-17": {
+          "count": 136,
+          "proportion": 0.1389
+        },
+        "18+": {
+          "count": 2,
+          "proportion": 0.002
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1389,
+          "expected": 0.2597,
+          "gap": 0.1208
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Spsr Nellore",
+      "age_breakdown": {
+        "0-5": {
+          "count": 382,
+          "proportion": 0.5313
+        },
+        "5-17": {
+          "count": 264,
+          "proportion": 0.3672
+        },
+        "18+": {
+          "count": 73,
+          "proportion": 0.1015
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5313,
+          "expected": 0.715,
+          "gap": 0.1837
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Sri Potti Sriramulu Nellore",
+      "age_breakdown": {
+        "0-5": {
+          "count": 79,
+          "proportion": 0.3641
+        },
+        "5-17": {
+          "count": 91,
+          "proportion": 0.4194
+        },
+        "18+": {
+          "count": 47,
+          "proportion": 0.2166
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3641,
+          "expected": 0.715,
+          "gap": 0.351
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Sri Sathya Sai",
+      "age_breakdown": {
+        "0-5": {
+          "count": 125,
+          "proportion": 0.9542
+        },
+        "5-17": {
+          "count": 5,
+          "proportion": 0.0382
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0076
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0382,
+          "expected": 0.2597,
+          "gap": 0.2215
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Srikakulam",
+      "age_breakdown": {
+        "0-5": {
+          "count": 585,
+          "proportion": 0.9574
+        },
+        "5-17": {
+          "count": 25,
+          "proportion": 0.0409
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0016
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0409,
+          "expected": 0.2597,
+          "gap": 0.2188
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatanam",
+      "age_breakdown": {
+        "0-5": {
+          "count": 186,
+          "proportion": 0.823
+        },
+        "5-17": {
+          "count": 28,
+          "proportion": 0.1239
+        },
+        "18+": {
+          "count": 12,
+          "proportion": 0.0531
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1239,
+          "expected": 0.2597,
+          "gap": 0.1358
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1092,
+          "proportion": 0.9496
+        },
+        "5-17": {
+          "count": 57,
+          "proportion": 0.0496
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0009
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0496,
+          "expected": 0.2597,
+          "gap": 0.2101
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Vizianagaram",
+      "age_breakdown": {
+        "0-5": {
+          "count": 520,
+          "proportion": 0.963
+        },
+        "5-17": {
+          "count": 20,
+          "proportion": 0.037
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.037,
+          "expected": 0.2597,
+          "gap": 0.2227
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Warangal",
+      "age_breakdown": {
+        "0-5": {
+          "count": 157,
+          "proportion": 0.8177
+        },
+        "5-17": {
+          "count": 35,
+          "proportion": 0.1823
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1823,
+          "expected": 0.2597,
+          "gap": 0.0774
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "West Godavari",
+      "age_breakdown": {
+        "0-5": {
+          "count": 692,
+          "proportion": 0.9326
+        },
+        "5-17": {
+          "count": 44,
+          "proportion": 0.0593
+        },
+        "18+": {
+          "count": 6,
+          "proportion": 0.0081
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0593,
+          "expected": 0.2597,
+          "gap": 0.2004
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Y. S. R",
+      "age_breakdown": {
+        "0-5": {
+          "count": 85,
+          "proportion": 0.9444
+        },
+        "5-17": {
+          "count": 4,
+          "proportion": 0.0444
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0111
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0444,
+          "expected": 0.2597,
+          "gap": 0.2153
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Anjaw",
+      "age_breakdown": {
+        "0-5": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "5-17": {
+          "count": 2,
+          "proportion": 1.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.0,
+          "expected": 0.715,
+          "gap": 0.715
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Changlang",
+      "age_breakdown": {
+        "0-5": {
+          "count": 61,
+          "proportion": 0.3765
+        },
+        "5-17": {
+          "count": 100,
+          "proportion": 0.6173
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0062
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3765,
+          "expected": 0.715,
+          "gap": 0.3385
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "East Kameng",
+      "age_breakdown": {
+        "0-5": {
+          "count": 12,
+          "proportion": 0.4138
+        },
+        "5-17": {
+          "count": 17,
+          "proportion": 0.5862
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4138,
+          "expected": 0.715,
+          "gap": 0.3012
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "East Siang",
+      "age_breakdown": {
+        "0-5": {
+          "count": 9,
+          "proportion": 0.45
+        },
+        "5-17": {
+          "count": 11,
+          "proportion": 0.55
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.45,
+          "expected": 0.715,
+          "gap": 0.265
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kamle",
+      "age_breakdown": {
+        "0-5": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "5-17": {
+          "count": 1,
+          "proportion": 1.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.0,
+          "expected": 0.715,
+          "gap": 0.715
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kra Daadi",
+      "age_breakdown": {
+        "0-5": {
+          "count": 5,
+          "proportion": 0.3846
+        },
+        "5-17": {
+          "count": 8,
+          "proportion": 0.6154
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3846,
+          "expected": 0.715,
+          "gap": 0.3304
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kurung Kumey",
+      "age_breakdown": {
+        "0-5": {
+          "count": 5,
+          "proportion": 0.5
+        },
+        "5-17": {
+          "count": 5,
+          "proportion": 0.5
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5,
+          "expected": 0.715,
+          "gap": 0.215
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Leparada",
+      "age_breakdown": {
+        "0-5": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "5-17": {
+          "count": 1,
+          "proportion": 1.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.0,
+          "expected": 0.715,
+          "gap": 0.715
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lohit",
+      "age_breakdown": {
+        "0-5": {
+          "count": 12,
+          "proportion": 0.5714
+        },
+        "5-17": {
+          "count": 9,
+          "proportion": 0.4286
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5714,
+          "expected": 0.715,
+          "gap": 0.1436
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Longding",
+      "age_breakdown": {
+        "0-5": {
+          "count": 10,
+          "proportion": 0.1587
+        },
+        "5-17": {
+          "count": 53,
+          "proportion": 0.8413
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.1587,
+          "expected": 0.715,
+          "gap": 0.5563
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Dibang Valley",
+      "age_breakdown": {
+        "0-5": {
+          "count": 10,
+          "proportion": 0.5263
+        },
+        "5-17": {
+          "count": 9,
+          "proportion": 0.4737
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5263,
+          "expected": 0.715,
+          "gap": 0.1887
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Siang",
+      "age_breakdown": {
+        "0-5": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "5-17": {
+          "count": 3,
+          "proportion": 1.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.0,
+          "expected": 0.715,
+          "gap": 0.715
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Subansiri",
+      "age_breakdown": {
+        "0-5": {
+          "count": 3,
+          "proportion": 0.2
+        },
+        "5-17": {
+          "count": 12,
+          "proportion": 0.8
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.2,
+          "expected": 0.715,
+          "gap": 0.515
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Namsai",
+      "age_breakdown": {
+        "0-5": {
+          "count": 17,
+          "proportion": 0.5667
+        },
+        "5-17": {
+          "count": 13,
+          "proportion": 0.4333
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5667,
+          "expected": 0.715,
+          "gap": 0.1484
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Pakke Kessang",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1,
+          "proportion": 1.0
+        },
+        "5-17": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0,
+          "expected": 0.2597,
+          "gap": 0.2597
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Papum Pare",
+      "age_breakdown": {
+        "0-5": {
+          "count": 43,
+          "proportion": 0.5059
+        },
+        "5-17": {
+          "count": 42,
+          "proportion": 0.4941
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5059,
+          "expected": 0.715,
+          "gap": 0.2091
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Shi-Yomi",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1,
+          "proportion": 0.5
+        },
+        "5-17": {
+          "count": 1,
+          "proportion": 0.5
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5,
+          "expected": 0.715,
+          "gap": 0.215
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang",
+      "age_breakdown": {
+        "0-5": {
+          "count": 2,
+          "proportion": 0.2
+        },
+        "5-17": {
+          "count": 8,
+          "proportion": 0.8
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.2,
+          "expected": 0.715,
+          "gap": 0.515
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Upper Siang",
+      "age_breakdown": {
+        "0-5": {
+          "count": 5,
+          "proportion": 0.5
+        },
+        "5-17": {
+          "count": 5,
+          "proportion": 0.5
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5,
+          "expected": 0.715,
+          "gap": 0.215
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Upper Subansiri",
+      "age_breakdown": {
+        "0-5": {
+          "count": 11,
+          "proportion": 0.5238
+        },
+        "5-17": {
+          "count": 10,
+          "proportion": 0.4762
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5238,
+          "expected": 0.715,
+          "gap": 0.1912
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Bajali",
+      "age_breakdown": {
+        "0-5": {
+          "count": 2,
+          "proportion": 1.0
+        },
+        "5-17": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.0,
+          "expected": 0.2597,
+          "gap": 0.2597
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Dhemaji",
+      "age_breakdown": {
+        "0-5": {
+          "count": 183,
+          "proportion": 0.356
+        },
+        "5-17": {
+          "count": 91,
+          "proportion": 0.177
+        },
+        "18+": {
+          "count": 240,
+          "proportion": 0.4669
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.356,
+          "expected": 0.715,
+          "gap": 0.359
+        },
+        {
+          "age_group": "5-17",
+          "current": 0.177,
+          "expected": 0.2597,
+          "gap": 0.0827
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Dibrugarh",
+      "age_breakdown": {
+        "0-5": {
+          "count": 200,
+          "proportion": 0.4505
+        },
+        "5-17": {
+          "count": 117,
+          "proportion": 0.2635
+        },
+        "18+": {
+          "count": 127,
+          "proportion": 0.286
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4505,
+          "expected": 0.715,
+          "gap": 0.2646
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Dima Hasao",
+      "age_breakdown": {
+        "0-5": {
+          "count": 0,
+          "proportion": 0.0
+        },
+        "5-17": {
+          "count": 4,
+          "proportion": 1.0
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.0,
+          "expected": 0.715,
+          "gap": 0.715
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Golaghat",
+      "age_breakdown": {
+        "0-5": {
+          "count": 165,
+          "proportion": 0.3929
+        },
+        "5-17": {
+          "count": 139,
+          "proportion": 0.331
+        },
+        "18+": {
+          "count": 116,
+          "proportion": 0.2762
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3929,
+          "expected": 0.715,
+          "gap": 0.3222
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Jorhat",
+      "age_breakdown": {
+        "0-5": {
+          "count": 285,
+          "proportion": 0.6404
+        },
+        "5-17": {
+          "count": 79,
+          "proportion": 0.1775
+        },
+        "18+": {
+          "count": 81,
+          "proportion": 0.182
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1775,
+          "expected": 0.2597,
+          "gap": 0.0822
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Kamrup Metro",
+      "age_breakdown": {
+        "0-5": {
+          "count": 242,
+          "proportion": 0.3472
+        },
+        "5-17": {
+          "count": 184,
+          "proportion": 0.264
+        },
+        "18+": {
+          "count": 271,
+          "proportion": 0.3888
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3472,
+          "expected": 0.715,
+          "gap": 0.3678
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Karbi Anglong",
+      "age_breakdown": {
+        "0-5": {
+          "count": 203,
+          "proportion": 0.3942
+        },
+        "5-17": {
+          "count": 213,
+          "proportion": 0.4136
+        },
+        "18+": {
+          "count": 99,
+          "proportion": 0.1922
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3942,
+          "expected": 0.715,
+          "gap": 0.3208
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Kokrajhar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 164,
+          "proportion": 0.4556
+        },
+        "5-17": {
+          "count": 85,
+          "proportion": 0.2361
+        },
+        "18+": {
+          "count": 111,
+          "proportion": 0.3083
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4556,
+          "expected": 0.715,
+          "gap": 0.2595
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Lakhimpur",
+      "age_breakdown": {
+        "0-5": {
+          "count": 418,
+          "proportion": 0.7451
+        },
+        "5-17": {
+          "count": 113,
+          "proportion": 0.2014
+        },
+        "18+": {
+          "count": 30,
+          "proportion": 0.0535
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.2014,
+          "expected": 0.2597,
+          "gap": 0.0583
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Sibsagar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 188,
+          "proportion": 0.47
+        },
+        "5-17": {
+          "count": 58,
+          "proportion": 0.145
+        },
+        "18+": {
+          "count": 154,
+          "proportion": 0.385
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.47,
+          "expected": 0.715,
+          "gap": 0.245
+        },
+        {
+          "age_group": "5-17",
+          "current": 0.145,
+          "expected": 0.2597,
+          "gap": 0.1147
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Sivasagar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 167,
+          "proportion": 0.4883
+        },
+        "5-17": {
+          "count": 80,
+          "proportion": 0.2339
+        },
+        "18+": {
+          "count": 95,
+          "proportion": 0.2778
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4883,
+          "expected": 0.715,
+          "gap": 0.2267
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "South Salmara Mankachar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 143,
+          "proportion": 0.8314
+        },
+        "5-17": {
+          "count": 29,
+          "proportion": 0.1686
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1686,
+          "expected": 0.2597,
+          "gap": 0.0911
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Sribhumi",
+      "age_breakdown": {
+        "0-5": {
+          "count": 16,
+          "proportion": 0.8421
+        },
+        "5-17": {
+          "count": 2,
+          "proportion": 0.1053
+        },
+        "18+": {
+          "count": 1,
+          "proportion": 0.0526
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1053,
+          "expected": 0.2597,
+          "gap": 0.1544
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "Tamulpur District",
+      "age_breakdown": {
+        "0-5": {
+          "count": 5,
+          "proportion": 0.5556
+        },
+        "5-17": {
+          "count": 4,
+          "proportion": 0.4444
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5556,
+          "expected": 0.715,
+          "gap": 0.1595
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "district": "West Karbi Anglong",
+      "age_breakdown": {
+        "0-5": {
+          "count": 8,
+          "proportion": 0.1333
+        },
+        "5-17": {
+          "count": 20,
+          "proportion": 0.3333
+        },
+        "18+": {
+          "count": 32,
+          "proportion": 0.5333
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.1333,
+          "expected": 0.715,
+          "gap": 0.5817
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Arwal",
+      "age_breakdown": {
+        "0-5": {
+          "count": 142,
+          "proportion": 0.2355
+        },
+        "5-17": {
+          "count": 454,
+          "proportion": 0.7529
+        },
+        "18+": {
+          "count": 7,
+          "proportion": 0.0116
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.2355,
+          "expected": 0.715,
+          "gap": 0.4795
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Aurangabad",
+      "age_breakdown": {
+        "0-5": {
+          "count": 501,
+          "proportion": 0.2845
+        },
+        "5-17": {
+          "count": 1239,
+          "proportion": 0.7036
+        },
+        "18+": {
+          "count": 21,
+          "proportion": 0.0119
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.2845,
+          "expected": 0.715,
+          "gap": 0.4305
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Aurangabad(Bh)",
+      "age_breakdown": {
+        "0-5": {
+          "count": 5,
+          "proportion": 0.4167
+        },
+        "5-17": {
+          "count": 7,
+          "proportion": 0.5833
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4167,
+          "expected": 0.715,
+          "gap": 0.2984
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhabua",
+      "age_breakdown": {
+        "0-5": {
+          "count": 4,
+          "proportion": 0.5714
+        },
+        "5-17": {
+          "count": 3,
+          "proportion": 0.4286
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5714,
+          "expected": 0.715,
+          "gap": 0.1436
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhagalpur",
+      "age_breakdown": {
+        "0-5": {
+          "count": 976,
+          "proportion": 0.5115
+        },
+        "5-17": {
+          "count": 873,
+          "proportion": 0.4575
+        },
+        "18+": {
+          "count": 59,
+          "proportion": 0.0309
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5115,
+          "expected": 0.715,
+          "gap": 0.2035
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhojpur",
+      "age_breakdown": {
+        "0-5": {
+          "count": 491,
+          "proportion": 0.2254
+        },
+        "5-17": {
+          "count": 1668,
+          "proportion": 0.7658
+        },
+        "18+": {
+          "count": 19,
+          "proportion": 0.0087
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.2254,
+          "expected": 0.715,
+          "gap": 0.4896
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Buxar",
+      "age_breakdown": {
+        "0-5": {
+          "count": 454,
+          "proportion": 0.3408
+        },
+        "5-17": {
+          "count": 852,
+          "proportion": 0.6396
+        },
+        "18+": {
+          "count": 26,
+          "proportion": 0.0195
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3408,
+          "expected": 0.715,
+          "gap": 0.3742
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "East Champaran",
+      "age_breakdown": {
+        "0-5": {
+          "count": 993,
+          "proportion": 0.3349
+        },
+        "5-17": {
+          "count": 1869,
+          "proportion": 0.6304
+        },
+        "18+": {
+          "count": 103,
+          "proportion": 0.0347
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.3349,
+          "expected": 0.715,
+          "gap": 0.3801
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Gaya",
+      "age_breakdown": {
+        "0-5": {
+          "count": 762,
+          "proportion": 0.2358
+        },
+        "5-17": {
+          "count": 2374,
+          "proportion": 0.7345
+        },
+        "18+": {
+          "count": 96,
+          "proportion": 0.0297
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.2358,
+          "expected": 0.715,
+          "gap": 0.4793
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Gopalganj",
+      "age_breakdown": {
+        "0-5": {
+          "count": 579,
+          "proportion": 0.336
+        },
+        "5-17": {
+          "count": 1116,
+          "proportion": 0.6477
+        },
+        "18+": {
+          "count": 28,
+          "proportion": 0.0163
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.336,
+          "expected": 0.715,
+          "gap": 0.379
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Jamui",
+      "age_breakdown": {
+        "0-5": {
+          "count": 714,
+          "proportion": 0.4741
+        },
+        "5-17": {
+          "count": 745,
+          "proportion": 0.4947
+        },
+        "18+": {
+          "count": 47,
+          "proportion": 0.0312
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4741,
+          "expected": 0.715,
+          "gap": 0.2409
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Jehanabad",
+      "age_breakdown": {
+        "0-5": {
+          "count": 138,
+          "proportion": 0.1745
+        },
+        "5-17": {
+          "count": 606,
+          "proportion": 0.7661
+        },
+        "18+": {
+          "count": 47,
+          "proportion": 0.0594
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.1745,
+          "expected": 0.715,
+          "gap": 0.5406
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Kaimur (Bhabua)",
+      "age_breakdown": {
+        "0-5": {
+          "count": 340,
+          "proportion": 0.4277
+        },
+        "5-17": {
+          "count": 443,
+          "proportion": 0.5572
+        },
+        "18+": {
+          "count": 12,
+          "proportion": 0.0151
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4277,
+          "expected": 0.715,
+          "gap": 0.2873
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Khagaria",
+      "age_breakdown": {
+        "0-5": {
+          "count": 654,
+          "proportion": 0.5219
+        },
+        "5-17": {
+          "count": 588,
+          "proportion": 0.4693
+        },
+        "18+": {
+          "count": 11,
+          "proportion": 0.0088
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5219,
+          "expected": 0.715,
+          "gap": 0.1931
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Kishanganj",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1718,
+          "proportion": 0.8021
+        },
+        "5-17": {
+          "count": 418,
+          "proportion": 0.1951
+        },
+        "18+": {
+          "count": 6,
+          "proportion": 0.0028
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "5-17",
+          "current": 0.1951,
+          "expected": 0.2597,
+          "gap": 0.0646
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Lakhisarai",
+      "age_breakdown": {
+        "0-5": {
+          "count": 201,
+          "proportion": 0.4741
+        },
+        "5-17": {
+          "count": 208,
+          "proportion": 0.4906
+        },
+        "18+": {
+          "count": 15,
+          "proportion": 0.0354
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4741,
+          "expected": 0.715,
+          "gap": 0.241
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Madhepura",
+      "age_breakdown": {
+        "0-5": {
+          "count": 825,
+          "proportion": 0.5147
+        },
+        "5-17": {
+          "count": 771,
+          "proportion": 0.481
+        },
+        "18+": {
+          "count": 7,
+          "proportion": 0.0044
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5147,
+          "expected": 0.715,
+          "gap": 0.2004
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Madhubani",
+      "age_breakdown": {
+        "0-5": {
+          "count": 1927,
+          "proportion": 0.5498
+        },
+        "5-17": {
+          "count": 1495,
+          "proportion": 0.4265
+        },
+        "18+": {
+          "count": 83,
+          "proportion": 0.0237
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.5498,
+          "expected": 0.715,
+          "gap": 0.1652
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "district": "Monghyr",
+      "age_breakdown": {
+        "0-5": {
+          "count": 2,
+          "proportion": 0.4
+        },
+        "5-17": {
+          "count": 3,
+          "proportion": 0.6
+        },
+        "18+": {
+          "count": 0,
+          "proportion": 0.0
+        }
+      },
+      "disparities": [
+        {
+          "age_group": "0-5",
+          "current": 0.4,
+          "expected": 0.715,
+          "gap": 0.315
+        }
+      ]
+    }
+  ],
+  "forecasts": {
+    "prophet": {
+      "model": "Prophet",
+      "predictions": [
+        {
+          "month": "2025-10",
+          "predicted": 3253487,
+          "lower_bound": 3252788,
+          "upper_bound": 3254314,
+          "confidence": 0.95
+        },
+        {
+          "month": "2025-11",
+          "predicted": 10044797,
+          "lower_bound": 10038473,
+          "upper_bound": 10051677,
+          "confidence": 0.95
+        },
+        {
+          "month": "2025-12",
+          "predicted": 0,
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "confidence": 0.95
+        },
+        {
+          "month": "2026-01",
+          "predicted": 0,
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "confidence": 0.95
+        },
+        {
+          "month": "2026-02",
+          "predicted": 741594,
+          "lower_bound": 740093,
+          "upper_bound": 743200,
+          "confidence": 0.95
+        },
+        {
+          "month": "2026-03",
+          "predicted": 0,
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "confidence": 0.95
+        }
+      ],
+      "seasonality_detected": true,
+      "trend": "decreasing"
+    },
+    "arima": {
+      "model": "ARIMA(2,1,2)",
+      "predictions": [
+        {
+          "month": "2025-11",
+          "predicted": 608519
+        },
+        {
+          "month": "2025-12",
+          "predicted": 1104706
+        },
+        {
+          "month": "2026-01",
+          "predicted": 923254
+        },
+        {
+          "month": "2026-02",
+          "predicted": 588171
+        },
+        {
+          "month": "2026-03",
+          "predicted": 811808
+        },
+        {
+          "month": "2026-04",
+          "predicted": 1012634
+        }
+      ],
+      "aic": 184.28318829016126,
+      "bic": 183.24198563630154
+    },
+    "lstm": {
+      "model": "LSTM",
+      "predictions": [
+        {
+          "month": "2025-11",
+          "predicted": 856115
+        },
+        {
+          "month": "2025-12",
+          "predicted": 898709
+        },
+        {
+          "month": "2026-01",
+          "predicted": 824778
+        },
+        {
+          "month": "2026-02",
+          "predicted": 860575
+        },
+        {
+          "month": "2026-03",
+          "predicted": 862064
+        },
+        {
+          "month": "2026-04",
+          "predicted": 857074
+        }
+      ],
+      "architecture": "50-LSTM + Dropout + 25-Dense",
+      "epochs": 50
+    },
+    "comparison": {
+      "models_compared": [
+        "prophet",
+        "arima",
+        "lstm"
+      ],
+      "recommendation": "Prophet",
+      "reasoning": "Best handles seasonality and trends for government data",
+      "rankings": [
+        {
+          "model": "Prophet",
+          "score": 9.2,
+          "strengths": [
+            "Seasonality",
+            "Trend detection",
+            "Robust"
+          ]
+        },
+        {
+          "model": "LSTM",
+          "score": 8.7,
+          "strengths": [
+            "Complex patterns",
+            "Deep learning",
+            "Non-linear"
+          ]
+        },
+        {
+          "model": "ARIMA",
+          "score": 7.8,
+          "strengths": [
+            "Classical",
+            "Interpretable",
+            "Fast"
+          ]
+        }
+      ]
+    }
+  },
+  "anomalies": {
+    "isolation_forest": [
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Anjaw",
+        "anomaly_score": -0.62,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 2,
+          "child_ratio": 0.0,
+          "growth_rate": -0.9048
+        }
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Kamle",
+        "anomaly_score": -0.625,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 1,
+          "child_ratio": 0.0,
+          "growth_rate": -0.95
+        }
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Leparada",
+        "anomaly_score": -0.598,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 1,
+          "child_ratio": 0.0,
+          "growth_rate": null
+        }
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Longding",
+        "anomaly_score": -0.539,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 63,
+          "child_ratio": 0.1587,
+          "growth_rate": -0.8091
+        }
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Lower Siang",
+        "anomaly_score": -0.588,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 3,
+          "child_ratio": 0.0,
+          "growth_rate": -0.75
+        }
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Siang",
+        "anomaly_score": -0.538,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 10,
+          "child_ratio": 0.2,
+          "growth_rate": -0.8649
+        }
+      },
+      {
+        "state": "Assam",
+        "district": "Dima Hasao",
+        "anomaly_score": -0.579,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 4,
+          "child_ratio": 0.0,
+          "growth_rate": -0.6923
+        }
+      },
+      {
+        "state": "Assam",
+        "district": "Sivasagar",
+        "anomaly_score": -0.684,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 342,
+          "child_ratio": 0.4883,
+          "growth_rate": 3.275
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Araria",
+        "anomaly_score": -0.617,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 3321,
+          "child_ratio": 0.6781,
+          "growth_rate": -0.2065
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Arwal",
+        "anomaly_score": -0.52,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 603,
+          "child_ratio": 0.2355,
+          "growth_rate": -0.4422
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Aurangabad",
+        "anomaly_score": -0.541,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 1761,
+          "child_ratio": 0.2845,
+          "growth_rate": -0.4365
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Bhojpur",
+        "anomaly_score": -0.589,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 2178,
+          "child_ratio": 0.2254,
+          "growth_rate": -0.3782
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "East Champaran",
+        "anomaly_score": -0.569,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 2965,
+          "child_ratio": 0.3349,
+          "growth_rate": -0.5917
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Gaya",
+        "anomaly_score": -0.635,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 3232,
+          "child_ratio": 0.2358,
+          "growth_rate": -0.4282
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Gopalganj",
+        "anomaly_score": -0.53,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 1723,
+          "child_ratio": 0.336,
+          "growth_rate": -0.4362
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Jehanabad",
+        "anomaly_score": -0.575,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 791,
+          "child_ratio": 0.1745,
+          "growth_rate": -0.3906
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Katihar",
+        "anomaly_score": -0.523,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 2689,
+          "child_ratio": 0.7386,
+          "growth_rate": -0.4984
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Kishanganj",
+        "anomaly_score": -0.552,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 2142,
+          "child_ratio": 0.8021,
+          "growth_rate": -0.2942
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Madhubani",
+        "anomaly_score": -0.607,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 3505,
+          "child_ratio": 0.5498,
+          "growth_rate": -0.3129
+        }
+      },
+      {
+        "state": "Bihar",
+        "district": "Nalanda",
+        "anomaly_score": -0.569,
+        "severity": "high",
+        "metrics": {
+          "total_enrollments": 1908,
+          "child_ratio": 0.2327,
+          "growth_rate": -0.4825
+        }
+      }
+    ],
+    "local_outlier_factor": [
+      {
+        "state": "Andaman And Nicobar Islands",
+        "district": "North And Middle Andaman",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Andhra Pradesh",
+        "district": "Kakinada",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Andhra Pradesh",
+        "district": "N. T. R",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Kra Daadi",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Lower Siang",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Lower Subansiri",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Tirap",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Assam",
+        "district": "Darrang",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Assam",
+        "district": "Sonitpur",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Bihar",
+        "district": "Araria",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Bihar",
+        "district": "Begusarai",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      },
+      {
+        "state": "Bihar",
+        "district": "Buxar",
+        "type": "local_density_outlier",
+        "severity": "medium"
+      }
+    ],
+    "statistical_outliers": [
+      {
+        "state": "Bihar",
+        "district": "Araria",
+        "field": "total_enrolments",
+        "value": 3321.0,
+        "z_score": 3.3193693492138645,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "Gaya",
+        "field": "total_enrolments",
+        "value": 3232.0,
+        "z_score": 3.210786821273114,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "Madhubani",
+        "field": "total_enrolments",
+        "value": 3505.0,
+        "z_score": 3.5438545755183375,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "Purbi Champaran",
+        "field": "total_enrolments",
+        "value": 8337.0,
+        "z_score": 9.43903182281841,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "Purnia",
+        "field": "total_enrolments",
+        "value": 3868.0,
+        "z_score": 3.9867248861081404,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "Saran",
+        "field": "total_enrolments",
+        "value": 3680.0,
+        "z_score": 3.757359546188353,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "Vaishali",
+        "field": "total_enrolments",
+        "value": 3333.0,
+        "z_score": 3.3340096900598084,
+        "severity": "high"
+      },
+      {
+        "state": "Bihar",
+        "district": "West Champaran",
+        "field": "total_enrolments",
+        "value": 3101.0,
+        "z_score": 3.05096310037156,
+        "severity": "high"
+      },
+      {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "field": "total_enrolments",
+        "value": 3079.0,
+        "z_score": 3.0241224754873297,
+        "severity": "high"
+      },
+      {
+        "state": "Maharashtra",
+        "district": "Thane",
+        "field": "total_enrolments",
+        "value": 3107.0,
+        "z_score": 3.058283270794532,
+        "severity": "high"
+      }
+    ],
+    "demographic_anomalies": [
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Anjaw",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Kamle",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Leparada",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "district": "Lower Siang",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Assam",
+        "district": "Dima Hasao",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Assam",
+        "district": "West Karbi Anglong",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.1333,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Haryana",
+        "district": "Jhajjar *",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Karnataka",
+        "district": "Bengaluru South",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Manipur",
+        "district": "Pherzawl",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.0,
+        "national_avg": 0.715,
+        "severity": "critical"
+      },
+      {
+        "state": "Meghalaya",
+        "district": "East Garo Hills",
+        "issue": "Critical child enrollment deficit",
+        "current_ratio": 0.094,
+        "national_avg": 0.715,
+        "severity": "critical"
+      }
+    ],
+    "summary": {
+      "total_anomalies": 55,
+      "by_type": {
+        "isolation_forest": 20,
+        "local_outlier_factor": 15,
+        "statistical_outliers": 10,
+        "demographic_anomalies": 10
+      },
+      "severity_distribution": {
+        "critical": 10,
+        "high": 30,
+        "medium": 15,
+        "low": 0
+      }
+    }
+  },
+  "state_forecasts": [
+    {
+      "state": "Uttar Pradesh",
+      "current_monthly_avg": 95775,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 205713,
+          "lower": 135525,
+          "upper": 276735
+        },
+        {
+          "month": "2025-11",
+          "predicted": 228732,
+          "lower": 146875,
+          "upper": 301063
+        },
+        {
+          "month": "2025-12",
+          "predicted": 252518,
+          "lower": 178581,
+          "upper": 327948
+        },
+        {
+          "month": "2026-01",
+          "predicted": 276305,
+          "lower": 205883,
+          "upper": 349172
+        },
+        {
+          "month": "2026-02",
+          "predicted": 297789,
+          "lower": 229163,
+          "upper": 370220
+        },
+        {
+          "month": "2026-03",
+          "predicted": 321576,
+          "lower": 246539,
+          "upper": 396090
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Bihar",
+      "current_monthly_avg": 55843,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 126394,
+          "lower": 99846,
+          "upper": 154363
+        },
+        {
+          "month": "2025-11",
+          "predicted": 141147,
+          "lower": 115782,
+          "upper": 169227
+        },
+        {
+          "month": "2025-12",
+          "predicted": 156393,
+          "lower": 128269,
+          "upper": 185999
+        },
+        {
+          "month": "2026-01",
+          "predicted": 171638,
+          "lower": 142772,
+          "upper": 196085
+        },
+        {
+          "month": "2026-02",
+          "predicted": 185408,
+          "lower": 157944,
+          "upper": 213960
+        },
+        {
+          "month": "2026-03",
+          "predicted": 200653,
+          "lower": 172204,
+          "upper": 229015
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "current_monthly_avg": 39583,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 95831,
+          "lower": 54629,
+          "upper": 135475
+        },
+        {
+          "month": "2025-11",
+          "predicted": 107598,
+          "lower": 66961,
+          "upper": 150079
+        },
+        {
+          "month": "2025-12",
+          "predicted": 119758,
+          "lower": 83712,
+          "upper": 159310
+        },
+        {
+          "month": "2026-01",
+          "predicted": 131918,
+          "lower": 89411,
+          "upper": 168863
+        },
+        {
+          "month": "2026-02",
+          "predicted": 142901,
+          "lower": 105201,
+          "upper": 184736
+        },
+        {
+          "month": "2026-03",
+          "predicted": 155061,
+          "lower": 116108,
+          "upper": 196792
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "West Bengal",
+      "current_monthly_avg": 31754,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 93174,
+          "lower": 62280,
+          "upper": 127388
+        },
+        {
+          "month": "2025-11",
+          "predicted": 106017,
+          "lower": 73313,
+          "upper": 136185
+        },
+        {
+          "month": "2025-12",
+          "predicted": 119289,
+          "lower": 87874,
+          "upper": 150114
+        },
+        {
+          "month": "2026-01",
+          "predicted": 132561,
+          "lower": 101670,
+          "upper": 163554
+        },
+        {
+          "month": "2026-02",
+          "predicted": 144548,
+          "lower": 116064,
+          "upper": 177391
+        },
+        {
+          "month": "2026-03",
+          "predicted": 157820,
+          "lower": 127382,
+          "upper": 189982
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Maharashtra",
+      "current_monthly_avg": 31718,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 79217,
+          "lower": 49527,
+          "upper": 107835
+        },
+        {
+          "month": "2025-11",
+          "predicted": 89149,
+          "lower": 58715,
+          "upper": 117054
+        },
+        {
+          "month": "2025-12",
+          "predicted": 99411,
+          "lower": 69396,
+          "upper": 129965
+        },
+        {
+          "month": "2026-01",
+          "predicted": 109674,
+          "lower": 81259,
+          "upper": 138295
+        },
+        {
+          "month": "2026-02",
+          "predicted": 118943,
+          "lower": 89995,
+          "upper": 145607
+        },
+        {
+          "month": "2026-03",
+          "predicted": 129206,
+          "lower": 101619,
+          "upper": 157754
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Rajasthan",
+      "current_monthly_avg": 29385,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 78412,
+          "lower": 39101,
+          "upper": 117793
+        },
+        {
+          "month": "2025-11",
+          "predicted": 88660,
+          "lower": 49550,
+          "upper": 128464
+        },
+        {
+          "month": "2025-12",
+          "predicted": 99250,
+          "lower": 58674,
+          "upper": 137672
+        },
+        {
+          "month": "2026-01",
+          "predicted": 109840,
+          "lower": 70392,
+          "upper": 147234
+        },
+        {
+          "month": "2026-02",
+          "predicted": 119406,
+          "lower": 82095,
+          "upper": 160013
+        },
+        {
+          "month": "2026-03",
+          "predicted": 129995,
+          "lower": 91791,
+          "upper": 168205
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Gujarat",
+      "current_monthly_avg": 27616,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 48757,
+          "lower": 25093,
+          "upper": 74767
+        },
+        {
+          "month": "2025-11",
+          "predicted": 53180,
+          "lower": 30022,
+          "upper": 77171
+        },
+        {
+          "month": "2025-12",
+          "predicted": 57749,
+          "lower": 35121,
+          "upper": 80608
+        },
+        {
+          "month": "2026-01",
+          "predicted": 62319,
+          "lower": 37203,
+          "upper": 86993
+        },
+        {
+          "month": "2026-02",
+          "predicted": 66447,
+          "lower": 42548,
+          "upper": 91926
+        },
+        {
+          "month": "2026-03",
+          "predicted": 71016,
+          "lower": 45435,
+          "upper": 95876
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Assam",
+      "current_monthly_avg": 23880,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 41749,
+          "lower": 22374,
+          "upper": 60176
+        },
+        {
+          "month": "2025-11",
+          "predicted": 45484,
+          "lower": 26740,
+          "upper": 64185
+        },
+        {
+          "month": "2025-12",
+          "predicted": 49342,
+          "lower": 31057,
+          "upper": 68103
+        },
+        {
+          "month": "2026-01",
+          "predicted": 53201,
+          "lower": 35266,
+          "upper": 71883
+        },
+        {
+          "month": "2026-02",
+          "predicted": 56686,
+          "lower": 39217,
+          "upper": 74475
+        },
+        {
+          "month": "2026-03",
+          "predicted": 60545,
+          "lower": 41128,
+          "upper": 79231
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Karnataka",
+      "current_monthly_avg": 17394,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 42645,
+          "lower": 26716,
+          "upper": 57719
+        },
+        {
+          "month": "2025-11",
+          "predicted": 47927,
+          "lower": 32394,
+          "upper": 63545
+        },
+        {
+          "month": "2025-12",
+          "predicted": 53384,
+          "lower": 37306,
+          "upper": 69721
+        },
+        {
+          "month": "2026-01",
+          "predicted": 58842,
+          "lower": 43754,
+          "upper": 74892
+        },
+        {
+          "month": "2026-02",
+          "predicted": 63772,
+          "lower": 46935,
+          "upper": 80054
+        },
+        {
+          "month": "2026-03",
+          "predicted": 69229,
+          "lower": 52032,
+          "upper": 83541
+        }
+      ],
+      "trend": "increasing"
+    },
+    {
+      "state": "Tamil Nadu",
+      "current_monthly_avg": 15083,
+      "forecast": [
+        {
+          "month": "2025-10",
+          "predicted": 50755,
+          "lower": 27626,
+          "upper": 76749
+        },
+        {
+          "month": "2025-11",
+          "predicted": 58216,
+          "lower": 34305,
+          "upper": 82440
+        },
+        {
+          "month": "2025-12",
+          "predicted": 65925,
+          "lower": 40503,
+          "upper": 89674
+        },
+        {
+          "month": "2026-01",
+          "predicted": 73635,
+          "lower": 49051,
+          "upper": 98016
+        },
+        {
+          "month": "2026-02",
+          "predicted": 80598,
+          "lower": 55963,
+          "upper": 106014
+        },
+        {
+          "month": "2026-03",
+          "predicted": 88308,
+          "lower": 63178,
+          "upper": 110983
+        }
+      ],
+      "trend": "increasing"
+    }
+  ],
+  "policy_simulation": {
+    "scenario_1": {
+      "name": "Targeted Mobile Units",
+      "description": "Deploy mobile enrollment units to bottom 10 districts",
+      "assumptions": {
+        "enrollment_boost": "15% increase",
+        "duration": "6 months",
+        "cost_per_district": "\u20b950 lakhs",
+        "total_cost": "\u20b95 crores"
+      },
+      "projected_impact": {
+        "current_monthly_enrollment": 10,
+        "projected_monthly_enrollment": 11,
+        "additional_enrollments": 9,
+        "cost_per_enrollment": 5555555,
+        "roi": "2.3x"
+      },
+      "recommendation": "HIGH PRIORITY - Immediate implementation recommended"
+    },
+    "scenario_2": {
+      "name": "Digital Awareness Campaign",
+      "description": "State-wide digital campaign targeting young parents",
+      "assumptions": {
+        "enrollment_boost": "8% increase",
+        "duration": "12 months",
+        "cost": "\u20b93 crores"
+      },
+      "projected_impact": {
+        "reach": "10 million households",
+        "projected_enrollments": 9,
+        "cost_per_enrollment": 375
+      },
+      "recommendation": "MEDIUM PRIORITY - Cost-effective long-term solution"
+    },
+    "scenario_3": {
+      "name": "Anganwadi Integration",
+      "description": "Enroll children during routine health checkups",
+      "assumptions": {
+        "enrollment_boost": "25% increase in 0-5 age group",
+        "implementation_time": "3 months",
+        "cost": "\u20b92 crores"
+      },
+      "projected_impact": {
+        "target_population": 7,
+        "additional_enrollments": 1,
+        "sustainability": "High - integrates with existing infrastructure"
+      },
+      "recommendation": "HIGHEST PRIORITY - Most sustainable approach"
+    }
+  },
+  "seasonal_patterns": {
+    "monthly_patterns": [
+      {
+        "month": "March",
+        "month_num": 3,
+        "avg_enrollment": 98,
+        "deviation_from_average": -0.9998,
+        "variability": 55.62
+      },
+      {
+        "month": "April",
+        "month_num": 4,
+        "avg_enrollment": 303,
+        "deviation_from_average": -0.9994,
+        "variability": 282.93
+      },
+      {
+        "month": "May",
+        "month_num": 5,
+        "avg_enrollment": 334,
+        "deviation_from_average": -0.9993,
+        "variability": 313.56
+      },
+      {
+        "month": "June",
+        "month_num": 6,
+        "avg_enrollment": 370,
+        "deviation_from_average": -0.9992,
+        "variability": 300.76
+      },
+      {
+        "month": "July",
+        "month_num": 7,
+        "avg_enrollment": 521,
+        "deviation_from_average": -0.9989,
+        "variability": 471.29
+      },
+      {
+        "month": "September",
+        "month_num": 9,
+        "avg_enrollment": 4,
+        "deviation_from_average": -1.0,
+        "variability": 5.5
+      },
+      {
+        "month": "October",
+        "month_num": 10,
+        "avg_enrollment": 3,
+        "deviation_from_average": -1.0,
+        "variability": 5.64
+      }
+    ],
+    "key_periods": [
+      {
+        "period": "March",
+        "impact": "Low enrollment period",
+        "deviation": "-100.0%"
+      },
+      {
+        "period": "April",
+        "impact": "Low enrollment period",
+        "deviation": "-99.9%"
+      },
+      {
+        "period": "May",
+        "impact": "Low enrollment period",
+        "deviation": "-99.9%"
+      },
+      {
+        "period": "June",
+        "impact": "Low enrollment period",
+        "deviation": "-99.9%"
+      },
+      {
+        "period": "July",
+        "impact": "Low enrollment period",
+        "deviation": "-99.9%"
+      },
+      {
+        "period": "September",
+        "impact": "Low enrollment period",
+        "deviation": "-100.0%"
+      },
+      {
+        "period": "October",
+        "impact": "Low enrollment period",
+        "deviation": "-100.0%"
+      }
+    ],
+    "overall_trend": "Seasonal variation detected"
+  },
+  "summary_statistics": {
+    "national": {
+      "total_enrollments": 3301013,
+      "daily_average": 58946,
+      "age_distribution": {
+        "0-5": 2020406,
+        "5-17": 1157840,
+        "18+": 122767
+      }
+    },
+    "top_10_states": {
+      "Uttar Pradesh": {
+        "total_enrolments_sum": 670426,
+        "total_enrolments_mean": 11.71,
+        "total_enrolments_std": 76.45,
+        "district_nunique": 88,
+        "age_0_5_sum": 327183,
+        "age_5_17_sum": 330177,
+        "age_18_greater_sum": 13066
+      },
+      "Bihar": {
+        "total_enrolments_sum": 390901,
+        "total_enrolments_mean": 12.76,
+        "total_enrolments_std": 61.72,
+        "district_nunique": 47,
+        "age_0_5_sum": 160819,
+        "age_5_17_sum": 220183,
+        "age_18_greater_sum": 9899
+      },
+      "Madhya Pradesh": {
+        "total_enrolments_sum": 277081,
+        "total_enrolments_mean": 11.39,
+        "total_enrolments_std": 59.51,
+        "district_nunique": 61,
+        "age_0_5_sum": 189919,
+        "age_5_17_sum": 81008,
+        "age_18_greater_sum": 6154
+      },
+      "West Bengal": {
+        "total_enrolments_sum": 222284,
+        "total_enrolments_mean": 5.56,
+        "total_enrolments_std": 30.56,
+        "district_nunique": 50,
+        "age_0_5_sum": 159285,
+        "age_5_17_sum": 58395,
+        "age_18_greater_sum": 4604
+      },
+      "Maharashtra": {
+        "total_enrolments_sum": 222030,
+        "total_enrolments_mean": 5.81,
+        "total_enrolments_std": 42.58,
+        "district_nunique": 52,
+        "age_0_5_sum": 156612,
+        "age_5_17_sum": 60117,
+        "age_18_greater_sum": 5301
+      },
+      "Rajasthan": {
+        "total_enrolments_sum": 205699,
+        "total_enrolments_mean": 7.24,
+        "total_enrolments_std": 39.19,
+        "district_nunique": 38,
+        "age_0_5_sum": 137145,
+        "age_5_17_sum": 66169,
+        "age_18_greater_sum": 2385
+      },
+      "Gujarat": {
+        "total_enrolments_sum": 193313,
+        "total_enrolments_mean": 8.51,
+        "total_enrolments_std": 48.74,
+        "district_nunique": 40,
+        "age_0_5_sum": 123380,
+        "age_5_17_sum": 57421,
+        "age_18_greater_sum": 12512
+      },
+      "Assam": {
+        "total_enrolments_sum": 167163,
+        "total_enrolments_mean": 10.57,
+        "total_enrolments_std": 46.37,
+        "district_nunique": 38,
+        "age_0_5_sum": 100088,
+        "age_5_17_sum": 49915,
+        "age_18_greater_sum": 17160
+      },
+      "Karnataka": {
+        "total_enrolments_sum": 121762,
+        "total_enrolments_mean": 3.62,
+        "total_enrolments_std": 20.25,
+        "district_nunique": 51,
+        "age_0_5_sum": 91744,
+        "age_5_17_sum": 21967,
+        "age_18_greater_sum": 8051
+      },
+      "Tamil Nadu": {
+        "total_enrolments_sum": 105582,
+        "total_enrolments_mean": 2.34,
+        "total_enrolments_std": 4.41,
+        "district_nunique": 46,
+        "age_0_5_sum": 88175,
+        "age_5_17_sum": 16890,
+        "age_18_greater_sum": 517
+      }
+    },
+    "bottom_10_states": {
+      "Lakshadweep": {
+        "total_enrolments_sum": 93,
+        "total_enrolments_mean": 1.27,
+        "total_enrolments_std": 0.71,
+        "district_nunique": 1,
+        "age_0_5_sum": 87,
+        "age_5_17_sum": 6,
+        "age_18_greater_sum": 0
+      },
+      "Andaman And Nicobar Islands": {
+        "total_enrolments_sum": 248,
+        "total_enrolments_mean": 1.33,
+        "total_enrolments_std": 0.94,
+        "district_nunique": 5,
+        "age_0_5_sum": 225,
+        "age_5_17_sum": 23,
+        "age_18_greater_sum": 0
+      },
+      "Ladakh": {
+        "total_enrolments_sum": 250,
+        "total_enrolments_mean": 1.98,
+        "total_enrolments_std": 1.66,
+        "district_nunique": 2,
+        "age_0_5_sum": 167,
+        "age_5_17_sum": 74,
+        "age_18_greater_sum": 9
+      },
+      "Goa": {
+        "total_enrolments_sum": 1193,
+        "total_enrolments_mean": 1.56,
+        "total_enrolments_std": 1.76,
+        "district_nunique": 3,
+        "age_0_5_sum": 955,
+        "age_5_17_sum": 148,
+        "age_18_greater_sum": 90
+      },
+      "Chandigarh": {
+        "total_enrolments_sum": 1210,
+        "total_enrolments_mean": 3.11,
+        "total_enrolments_std": 6.3,
+        "district_nunique": 2,
+        "age_0_5_sum": 1074,
+        "age_5_17_sum": 125,
+        "age_18_greater_sum": 11
+      },
+      "Dadra And Nagar Haveli And Daman And Diu": {
+        "total_enrolments_sum": 1300,
+        "total_enrolments_mean": 6.19,
+        "total_enrolments_std": 36.39,
+        "district_nunique": 4,
+        "age_0_5_sum": 1061,
+        "age_5_17_sum": 204,
+        "age_18_greater_sum": 35
+      },
+      "Puducherry": {
+        "total_enrolments_sum": 1445,
+        "total_enrolments_mean": 1.61,
+        "total_enrolments_std": 1.31,
+        "district_nunique": 4,
+        "age_0_5_sum": 1332,
+        "age_5_17_sum": 100,
+        "age_18_greater_sum": 13
+      },
+      "Sikkim": {
+        "total_enrolments_sum": 1580,
+        "total_enrolments_mean": 2.67,
+        "total_enrolments_std": 13.85,
+        "district_nunique": 10,
+        "age_0_5_sum": 685,
+        "age_5_17_sum": 813,
+        "age_18_greater_sum": 82
+      },
+      "Arunachal Pradesh": {
+        "total_enrolments_sum": 2876,
+        "total_enrolments_mean": 3.4,
+        "total_enrolments_std": 14.49,
+        "district_nunique": 25,
+        "age_0_5_sum": 1253,
+        "age_5_17_sum": 1573,
+        "age_18_greater_sum": 50
+      },
+      "Mizoram": {
+        "total_enrolments_sum": 4175,
+        "total_enrolments_mean": 5.36,
+        "total_enrolments_std": 24.99,
+        "district_nunique": 12,
+        "age_0_5_sum": 2862,
+        "age_5_17_sum": 958,
+        "age_18_greater_sum": 355
+      }
+    },
+    "growth_metrics": {
+      "avg_monthly_growth": 118.12,
+      "growth_volatility": 493.0
+    }
+  },
+  "composite_scores": [
+    {
+      "state": "Bihar",
+      "district": "Purbi Champaran",
+      "composite_score": 100.0,
+      "components": {
+        "child_enrollment_prop": 0.2868,
+        "growth_rate": 0.3451,
+        "total_enrollments": 8337
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "Dinajpur Uttar",
+      "composite_score": 92.82,
+      "components": {
+        "child_enrollment_prop": 0.5772,
+        "growth_rate": 2.3511,
+        "total_enrollments": 8934
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "South 24 Parganas",
+      "composite_score": 86.5,
+      "components": {
+        "child_enrollment_prop": 0.7622,
+        "growth_rate": -0.3173,
+        "total_enrollments": 6458
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Saran",
+      "composite_score": 84.65,
+      "components": {
+        "child_enrollment_prop": 0.3228,
+        "growth_rate": -0.4222,
+        "total_enrollments": 3680
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Gaya",
+      "composite_score": 84.61,
+      "components": {
+        "child_enrollment_prop": 0.2358,
+        "growth_rate": -0.4282,
+        "total_enrollments": 3232
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "Murshidabad",
+      "composite_score": 84.6,
+      "components": {
+        "child_enrollment_prop": 0.8829,
+        "growth_rate": -0.5399,
+        "total_enrollments": 6385
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Nawada",
+      "composite_score": 82.95,
+      "components": {
+        "child_enrollment_prop": 0.1527,
+        "growth_rate": -0.4811,
+        "total_enrollments": 2312
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "West Champaran",
+      "composite_score": 82.7,
+      "components": {
+        "child_enrollment_prop": 0.3273,
+        "growth_rate": -0.4997,
+        "total_enrollments": 3101
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "East Champaran",
+      "composite_score": 82.29,
+      "components": {
+        "child_enrollment_prop": 0.3349,
+        "growth_rate": -0.5917,
+        "total_enrollments": 2965
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Bahraich",
+      "composite_score": 81.97,
+      "components": {
+        "child_enrollment_prop": 0.349,
+        "growth_rate": -0.6012,
+        "total_enrollments": 2940
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Patna",
+      "composite_score": 81.34,
+      "components": {
+        "child_enrollment_prop": 0.2713,
+        "growth_rate": -0.6339,
+        "total_enrollments": 2352
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhojpur",
+      "composite_score": 80.99,
+      "components": {
+        "child_enrollment_prop": 0.2254,
+        "growth_rate": -0.3782,
+        "total_enrollments": 2178
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Vaishali",
+      "composite_score": 80.89,
+      "components": {
+        "child_enrollment_prop": 0.4707,
+        "growth_rate": -0.443,
+        "total_enrollments": 3333
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Azamgarh",
+      "composite_score": 80.78,
+      "components": {
+        "child_enrollment_prop": 0.3171,
+        "growth_rate": -0.5946,
+        "total_enrollments": 2444
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Nalanda",
+      "composite_score": 80.13,
+      "components": {
+        "child_enrollment_prop": 0.2327,
+        "growth_rate": -0.4825,
+        "total_enrollments": 1908
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "Uttar Dinajpur",
+      "composite_score": 80.04,
+      "components": {
+        "child_enrollment_prop": 0.7086,
+        "growth_rate": -0.4735,
+        "total_enrollments": 4256
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Madhubani",
+      "composite_score": 79.84,
+      "components": {
+        "child_enrollment_prop": 0.5498,
+        "growth_rate": -0.3129,
+        "total_enrollments": 3505
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Purnia",
+      "composite_score": 78.85,
+      "components": {
+        "child_enrollment_prop": 0.6758,
+        "growth_rate": -0.2804,
+        "total_enrollments": 3868
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Siwan",
+      "composite_score": 78.71,
+      "components": {
+        "child_enrollment_prop": 0.4084,
+        "growth_rate": -0.441,
+        "total_enrollments": 2402
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Jaunpur",
+      "composite_score": 78.67,
+      "components": {
+        "child_enrollment_prop": 0.3269,
+        "growth_rate": -0.6282,
+        "total_enrollments": 1872
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Aurangabad",
+      "composite_score": 78.62,
+      "components": {
+        "child_enrollment_prop": 0.2845,
+        "growth_rate": -0.4365,
+        "total_enrollments": 1761
+      }
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram",
+      "composite_score": 78.59,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.9972,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kamle",
+      "composite_score": 78.49,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.95,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Anjaw",
+      "composite_score": 78.4,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.9048,
+        "total_enrollments": 2
+      }
+    },
+    {
+      "state": "Manipur",
+      "district": "Pherzawl",
+      "composite_score": 78.3,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.8571,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Siang",
+      "composite_score": 78.08,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.75,
+        "total_enrollments": 3
+      }
+    },
+    {
+      "state": "Assam",
+      "district": "Dima Hasao",
+      "composite_score": 77.96,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.6923,
+        "total_enrollments": 4
+      }
+    },
+    {
+      "state": "Karnataka",
+      "district": "Bengaluru South",
+      "composite_score": 77.9,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.6667,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Gorakhpur",
+      "composite_score": 77.89,
+      "components": {
+        "child_enrollment_prop": 0.3957,
+        "growth_rate": -0.6145,
+        "total_enrollments": 1999
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Muzaffarpur",
+      "composite_score": 77.88,
+      "components": {
+        "child_enrollment_prop": 0.4977,
+        "growth_rate": -0.5309,
+        "total_enrollments": 2554
+      }
+    },
+    {
+      "state": "Sikkim",
+      "district": "Namchi",
+      "composite_score": 77.84,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.6364,
+        "total_enrollments": 4
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Khasi Hills",
+      "composite_score": 77.83,
+      "components": {
+        "child_enrollment_prop": 0.1681,
+        "growth_rate": -0.6413,
+        "total_enrollments": 833
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "North 24 Parganas",
+      "composite_score": 77.81,
+      "components": {
+        "child_enrollment_prop": 0.7835,
+        "growth_rate": -0.6337,
+        "total_enrollments": 3898
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Siddharthnagar",
+      "composite_score": 77.72,
+      "components": {
+        "child_enrollment_prop": 0.2738,
+        "growth_rate": -0.6441,
+        "total_enrollments": 1326
+      }
+    },
+    {
+      "state": "Nagaland",
+      "district": "Shamator",
+      "composite_score": 77.66,
+      "components": {
+        "child_enrollment_prop": 0.0385,
+        "growth_rate": -0.8333,
+        "total_enrollments": 26
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Gopalganj",
+      "composite_score": 77.58,
+      "components": {
+        "child_enrollment_prop": 0.336,
+        "growth_rate": -0.4362,
+        "total_enrollments": 1723
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Eastern West Khasi Hills",
+      "composite_score": 77.49,
+      "components": {
+        "child_enrollment_prop": 0.0244,
+        "growth_rate": -0.6095,
+        "total_enrollments": 41
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "South Garo Hills",
+      "composite_score": 77.48,
+      "components": {
+        "child_enrollment_prop": 0.069,
+        "growth_rate": -0.8022,
+        "total_enrollments": 145
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kheri",
+      "composite_score": 77.41,
+      "components": {
+        "child_enrollment_prop": 0.4471,
+        "growth_rate": -0.7003,
+        "total_enrollments": 2069
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "24 Paraganas North",
+      "composite_score": 77.25,
+      "components": {
+        "child_enrollment_prop": 0.5174,
+        "growth_rate": 3.8543,
+        "total_enrollments": 5097
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Samastipur",
+      "composite_score": 77.21,
+      "components": {
+        "child_enrollment_prop": 0.6119,
+        "growth_rate": -0.4594,
+        "total_enrollments": 2976
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Garo Hills",
+      "composite_score": 77.08,
+      "components": {
+        "child_enrollment_prop": 0.094,
+        "growth_rate": -0.8102,
+        "total_enrollments": 149
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Jehanabad",
+      "composite_score": 77.04,
+      "components": {
+        "child_enrollment_prop": 0.1745,
+        "growth_rate": -0.3906,
+        "total_enrollments": 791
+      }
+    },
+    {
+      "state": "Nagaland",
+      "district": "Meluri",
+      "composite_score": 77.03,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": -0.25,
+        "total_enrollments": 3
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Lucknow",
+      "composite_score": 76.96,
+      "components": {
+        "child_enrollment_prop": 0.5656,
+        "growth_rate": -0.6015,
+        "total_enrollments": 2590
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Araria",
+      "composite_score": 76.73,
+      "components": {
+        "child_enrollment_prop": 0.6781,
+        "growth_rate": -0.2065,
+        "total_enrollments": 3321
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Ri Bhoi",
+      "composite_score": 76.66,
+      "components": {
+        "child_enrollment_prop": 0.1262,
+        "growth_rate": -0.6256,
+        "total_enrollments": 301
+      }
+    },
+    {
+      "state": "Rajasthan",
+      "district": "Deeg",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 2
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Leparada",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Raebareli",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "West Bengal",
+      "district": "West Medinipur",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Telangana",
+      "district": "Medchal?Malkajgiri",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal   *",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Sikkim",
+      "district": "Mangan",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Haryana",
+      "district": "Jhajjar *",
+      "composite_score": 76.5,
+      "components": {
+        "child_enrollment_prop": 0.0,
+        "growth_rate": null,
+        "total_enrollments": 1
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Ghazipur",
+      "composite_score": 76.47,
+      "components": {
+        "child_enrollment_prop": 0.3814,
+        "growth_rate": -0.6967,
+        "total_enrollments": 1476
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Mau",
+      "composite_score": 76.3,
+      "components": {
+        "child_enrollment_prop": 0.3065,
+        "growth_rate": -0.6548,
+        "total_enrollments": 1080
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Sitamarhi",
+      "composite_score": 76.23,
+      "components": {
+        "child_enrollment_prop": 0.5705,
+        "growth_rate": -0.459,
+        "total_enrollments": 2489
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Rohtas",
+      "composite_score": 76.2,
+      "components": {
+        "child_enrollment_prop": 0.299,
+        "growth_rate": -0.6087,
+        "total_enrollments": 1040
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Buxar",
+      "composite_score": 76.19,
+      "components": {
+        "child_enrollment_prop": 0.3408,
+        "growth_rate": -0.4638,
+        "total_enrollments": 1332
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Maharajganj",
+      "composite_score": 76.16,
+      "components": {
+        "child_enrollment_prop": 0.3651,
+        "growth_rate": -0.6525,
+        "total_enrollments": 1331
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "West Khasi Hills",
+      "composite_score": 76.08,
+      "components": {
+        "child_enrollment_prop": 0.181,
+        "growth_rate": -0.5692,
+        "total_enrollments": 442
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Balrampur",
+      "composite_score": 75.96,
+      "components": {
+        "child_enrollment_prop": 0.3494,
+        "growth_rate": -0.4695,
+        "total_enrollments": 1305
+      }
+    },
+    {
+      "state": "Assam",
+      "district": "West Karbi Anglong",
+      "composite_score": 75.77,
+      "components": {
+        "child_enrollment_prop": 0.1333,
+        "growth_rate": -0.6648,
+        "total_enrollments": 60
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "North Garo Hills",
+      "composite_score": 75.75,
+      "components": {
+        "child_enrollment_prop": 0.1594,
+        "growth_rate": -0.855,
+        "total_enrollments": 69
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "composite_score": 75.74,
+      "components": {
+        "child_enrollment_prop": 0.449,
+        "growth_rate": -0.6897,
+        "total_enrollments": 1608
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Saharsa",
+      "composite_score": 75.74,
+      "components": {
+        "child_enrollment_prop": 0.4695,
+        "growth_rate": -0.479,
+        "total_enrollments": 1836
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Jaintia Hills",
+      "composite_score": 75.73,
+      "components": {
+        "child_enrollment_prop": 0.1515,
+        "growth_rate": -0.6765,
+        "total_enrollments": 132
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Sitapur",
+      "composite_score": 75.72,
+      "components": {
+        "child_enrollment_prop": 0.495,
+        "growth_rate": -0.7234,
+        "total_enrollments": 1812
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Ballia",
+      "composite_score": 75.71,
+      "components": {
+        "child_enrollment_prop": 0.4062,
+        "growth_rate": -0.592,
+        "total_enrollments": 1445
+      }
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Thane",
+      "composite_score": 75.68,
+      "components": {
+        "child_enrollment_prop": 0.7483,
+        "growth_rate": -0.6461,
+        "total_enrollments": 3107
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Longding",
+      "composite_score": 75.64,
+      "components": {
+        "child_enrollment_prop": 0.1587,
+        "growth_rate": -0.8091,
+        "total_enrollments": 63
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Darbhanga",
+      "composite_score": 75.52,
+      "components": {
+        "child_enrollment_prop": 0.6373,
+        "growth_rate": -0.5068,
+        "total_enrollments": 2592
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "West Jaintia Hills",
+      "composite_score": 75.43,
+      "components": {
+        "child_enrollment_prop": 0.2029,
+        "growth_rate": -0.7221,
+        "total_enrollments": 276
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Arwal",
+      "composite_score": 75.43,
+      "components": {
+        "child_enrollment_prop": 0.2355,
+        "growth_rate": -0.4422,
+        "total_enrollments": 603
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Kamrup",
+      "composite_score": 75.41,
+      "components": {
+        "child_enrollment_prop": 0.0909,
+        "growth_rate": null,
+        "total_enrollments": 143
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "composite_score": 75.39,
+      "components": {
+        "child_enrollment_prop": 0.4986,
+        "growth_rate": -0.6981,
+        "total_enrollments": 1749
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhagalpur",
+      "composite_score": 75.34,
+      "components": {
+        "child_enrollment_prop": 0.5115,
+        "growth_rate": -0.516,
+        "total_enrollments": 1908
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Gonda",
+      "composite_score": 75.27,
+      "components": {
+        "child_enrollment_prop": 0.4833,
+        "growth_rate": -0.6434,
+        "total_enrollments": 1672
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kushinagar",
+      "composite_score": 75.19,
+      "components": {
+        "child_enrollment_prop": 0.4084,
+        "growth_rate": -0.6794,
+        "total_enrollments": 1256
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Basti",
+      "composite_score": 75.18,
+      "components": {
+        "child_enrollment_prop": 0.4399,
+        "growth_rate": -0.5433,
+        "total_enrollments": 1489
+      }
+    },
+    {
+      "state": "Bihar",
+      "district": "Supaul",
+      "composite_score": 74.88,
+      "components": {
+        "child_enrollment_prop": 0.5711,
+        "growth_rate": -0.1238,
+        "total_enrollments": 2308
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang",
+      "composite_score": 74.85,
+      "components": {
+        "child_enrollment_prop": 0.2,
+        "growth_rate": -0.8649,
+        "total_enrollments": 10
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Bareilly",
+      "composite_score": 74.84,
+      "components": {
+        "child_enrollment_prop": 0.5806,
+        "growth_rate": -0.6178,
+        "total_enrollments": 2048
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Agra",
+      "composite_score": 74.72,
+      "components": {
+        "child_enrollment_prop": 0.5565,
+        "growth_rate": -0.6777,
+        "total_enrollments": 1858
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Allahabad",
+      "composite_score": 74.71,
+      "components": {
+        "child_enrollment_prop": 0.5312,
+        "growth_rate": -0.6807,
+        "total_enrollments": 1728
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Shravasti",
+      "composite_score": 74.71,
+      "components": {
+        "child_enrollment_prop": 0.339,
+        "growth_rate": 0.6997,
+        "total_enrollments": 1596
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Deoria",
+      "composite_score": 74.69,
+      "components": {
+        "child_enrollment_prop": 0.4267,
+        "growth_rate": -0.6631,
+        "total_enrollments": 1214
+      }
+    },
+    {
+      "state": "Nagaland",
+      "district": "Kiphire",
+      "composite_score": 74.65,
+      "components": {
+        "child_enrollment_prop": 0.176,
+        "growth_rate": -0.3781,
+        "total_enrollments": 125
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Hardoi",
+      "composite_score": 74.63,
+      "components": {
+        "child_enrollment_prop": 0.5172,
+        "growth_rate": -0.7001,
+        "total_enrollments": 1624
+      }
+    },
+    {
+      "state": "Nagaland",
+      "district": "Tseminyu",
+      "composite_score": 74.57,
+      "components": {
+        "child_enrollment_prop": 0.125,
+        "growth_rate": -0.1111,
+        "total_enrollments": 8
+      }
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Pune",
+      "composite_score": 74.56,
+      "components": {
+        "child_enrollment_prop": 0.8022,
+        "growth_rate": -0.6091,
+        "total_enrollments": 3079
+      }
+    },
+    {
+      "state": "Karnataka",
+      "district": "Bengaluru",
+      "composite_score": 74.5,
+      "components": {
+        "child_enrollment_prop": 0.6488,
+        "growth_rate": -0.5431,
+        "total_enrollments": 2338
+      }
+    },
+    {
+      "state": "Delhi",
+      "district": "South East Delhi",
+      "composite_score": 74.5,
+      "components": {
+        "child_enrollment_prop": 0.2,
+        "growth_rate": -0.7059,
+        "total_enrollments": 5
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "composite_score": 74.48,
+      "components": {
+        "child_enrollment_prop": 0.5884,
+        "growth_rate": -0.6005,
+        "total_enrollments": 1997
+      }
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Giridih",
+      "composite_score": 74.45,
+      "components": {
+        "child_enrollment_prop": 0.5409,
+        "growth_rate": -0.5231,
+        "total_enrollments": 1797
+      }
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Subansiri",
+      "composite_score": 74.44,
+      "components": {
+        "child_enrollment_prop": 0.2,
+        "growth_rate": -0.6591,
+        "total_enrollments": 15
+      }
+    },
+    {
+      "state": "Nagaland",
+      "district": "Zunheboto",
+      "composite_score": 74.39,
+      "components": {
+        "child_enrollment_prop": 0.1619,
+        "growth_rate": -0.1667,
+        "total_enrollments": 105
+      }
+    },
+    {
+      "state": "Telangana",
+      "district": "K.V. Rangareddy",
+      "composite_score": 74.35,
+      "components": {
+        "child_enrollment_prop": 0.7813,
+        "growth_rate": -0.4817,
+        "total_enrollments": 2990
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "district": "South West Khasi Hills",
+      "composite_score": 74.31,
+      "components": {
+        "child_enrollment_prop": 0.2198,
+        "growth_rate": -0.636,
+        "total_enrollments": 91
+      }
+    }
+  ],
+  "priority_classification": [
+    {
+      "state": "Bihar",
+      "district": "Purbi Champaran",
+      "composite_score": 100.0,
+      "priority": "Critical"
+    },
+    {
+      "state": "West Bengal",
+      "district": "Dinajpur Uttar",
+      "composite_score": 92.82,
+      "priority": "Critical"
+    },
+    {
+      "state": "West Bengal",
+      "district": "South 24 Parganas",
+      "composite_score": 86.5,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Saran",
+      "composite_score": 84.65,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Gaya",
+      "composite_score": 84.61,
+      "priority": "Critical"
+    },
+    {
+      "state": "West Bengal",
+      "district": "Murshidabad",
+      "composite_score": 84.6,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Nawada",
+      "composite_score": 82.95,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "West Champaran",
+      "composite_score": 82.7,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "East Champaran",
+      "composite_score": 82.29,
+      "priority": "Critical"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Bahraich",
+      "composite_score": 81.97,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Patna",
+      "composite_score": 81.34,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhojpur",
+      "composite_score": 80.99,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Vaishali",
+      "composite_score": 80.89,
+      "priority": "Critical"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Azamgarh",
+      "composite_score": 80.78,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Nalanda",
+      "composite_score": 80.13,
+      "priority": "Critical"
+    },
+    {
+      "state": "West Bengal",
+      "district": "Uttar Dinajpur",
+      "composite_score": 80.04,
+      "priority": "Critical"
+    },
+    {
+      "state": "Bihar",
+      "district": "Madhubani",
+      "composite_score": 79.84,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Purnia",
+      "composite_score": 78.85,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Siwan",
+      "composite_score": 78.71,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Jaunpur",
+      "composite_score": 78.67,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Aurangabad",
+      "composite_score": 78.62,
+      "priority": "High"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram",
+      "composite_score": 78.59,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kamle",
+      "composite_score": 78.49,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Anjaw",
+      "composite_score": 78.4,
+      "priority": "High"
+    },
+    {
+      "state": "Manipur",
+      "district": "Pherzawl",
+      "composite_score": 78.3,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Siang",
+      "composite_score": 78.08,
+      "priority": "High"
+    },
+    {
+      "state": "Assam",
+      "district": "Dima Hasao",
+      "composite_score": 77.96,
+      "priority": "High"
+    },
+    {
+      "state": "Karnataka",
+      "district": "Bengaluru South",
+      "composite_score": 77.9,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Gorakhpur",
+      "composite_score": 77.89,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Muzaffarpur",
+      "composite_score": 77.88,
+      "priority": "High"
+    },
+    {
+      "state": "Sikkim",
+      "district": "Namchi",
+      "composite_score": 77.84,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Khasi Hills",
+      "composite_score": 77.83,
+      "priority": "High"
+    },
+    {
+      "state": "West Bengal",
+      "district": "North 24 Parganas",
+      "composite_score": 77.81,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Siddharthnagar",
+      "composite_score": 77.72,
+      "priority": "High"
+    },
+    {
+      "state": "Nagaland",
+      "district": "Shamator",
+      "composite_score": 77.66,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Gopalganj",
+      "composite_score": 77.58,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Eastern West Khasi Hills",
+      "composite_score": 77.49,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "South Garo Hills",
+      "composite_score": 77.48,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kheri",
+      "composite_score": 77.41,
+      "priority": "High"
+    },
+    {
+      "state": "West Bengal",
+      "district": "24 Paraganas North",
+      "composite_score": 77.25,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Samastipur",
+      "composite_score": 77.21,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Garo Hills",
+      "composite_score": 77.08,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Jehanabad",
+      "composite_score": 77.04,
+      "priority": "High"
+    },
+    {
+      "state": "Nagaland",
+      "district": "Meluri",
+      "composite_score": 77.03,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Lucknow",
+      "composite_score": 76.96,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Araria",
+      "composite_score": 76.73,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Ri Bhoi",
+      "composite_score": 76.66,
+      "priority": "High"
+    },
+    {
+      "state": "Rajasthan",
+      "district": "Deeg",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Leparada",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Raebareli",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "West Bengal",
+      "district": "West Medinipur",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Telangana",
+      "district": "Medchal?Malkajgiri",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal   *",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Sikkim",
+      "district": "Mangan",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Haryana",
+      "district": "Jhajjar *",
+      "composite_score": 76.5,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Ghazipur",
+      "composite_score": 76.47,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Mau",
+      "composite_score": 76.3,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Sitamarhi",
+      "composite_score": 76.23,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Rohtas",
+      "composite_score": 76.2,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Buxar",
+      "composite_score": 76.19,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Maharajganj",
+      "composite_score": 76.16,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "West Khasi Hills",
+      "composite_score": 76.08,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Balrampur",
+      "composite_score": 75.96,
+      "priority": "High"
+    },
+    {
+      "state": "Assam",
+      "district": "West Karbi Anglong",
+      "composite_score": 75.77,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "North Garo Hills",
+      "composite_score": 75.75,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "composite_score": 75.74,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Saharsa",
+      "composite_score": 75.74,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "East Jaintia Hills",
+      "composite_score": 75.73,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Sitapur",
+      "composite_score": 75.72,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Ballia",
+      "composite_score": 75.71,
+      "priority": "High"
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Thane",
+      "composite_score": 75.68,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Longding",
+      "composite_score": 75.64,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Darbhanga",
+      "composite_score": 75.52,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "West Jaintia Hills",
+      "composite_score": 75.43,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Arwal",
+      "composite_score": 75.43,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Kamrup",
+      "composite_score": 75.41,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "composite_score": 75.39,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Bhagalpur",
+      "composite_score": 75.34,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Gonda",
+      "composite_score": 75.27,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kushinagar",
+      "composite_score": 75.19,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Basti",
+      "composite_score": 75.18,
+      "priority": "High"
+    },
+    {
+      "state": "Bihar",
+      "district": "Supaul",
+      "composite_score": 74.88,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang",
+      "composite_score": 74.85,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Bareilly",
+      "composite_score": 74.84,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Agra",
+      "composite_score": 74.72,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Allahabad",
+      "composite_score": 74.71,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Shravasti",
+      "composite_score": 74.71,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Deoria",
+      "composite_score": 74.69,
+      "priority": "High"
+    },
+    {
+      "state": "Nagaland",
+      "district": "Kiphire",
+      "composite_score": 74.65,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Hardoi",
+      "composite_score": 74.63,
+      "priority": "High"
+    },
+    {
+      "state": "Nagaland",
+      "district": "Tseminyu",
+      "composite_score": 74.57,
+      "priority": "High"
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Pune",
+      "composite_score": 74.56,
+      "priority": "High"
+    },
+    {
+      "state": "Karnataka",
+      "district": "Bengaluru",
+      "composite_score": 74.5,
+      "priority": "High"
+    },
+    {
+      "state": "Delhi",
+      "district": "South East Delhi",
+      "composite_score": 74.5,
+      "priority": "High"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "composite_score": 74.48,
+      "priority": "High"
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Giridih",
+      "composite_score": 74.45,
+      "priority": "High"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Subansiri",
+      "composite_score": 74.44,
+      "priority": "High"
+    },
+    {
+      "state": "Nagaland",
+      "district": "Zunheboto",
+      "composite_score": 74.39,
+      "priority": "High"
+    },
+    {
+      "state": "Telangana",
+      "district": "K.V. Rangareddy",
+      "composite_score": 74.35,
+      "priority": "High"
+    },
+    {
+      "state": "Meghalaya",
+      "district": "South West Khasi Hills",
+      "composite_score": 74.31,
+      "priority": "High"
+    }
+  ],
+  "state_similarity": [
+    {
+      "cluster_id": 0,
+      "states": [
+        "Andaman And Nicobar Islands",
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Dadra And Nagar Haveli And Daman And Diu",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jammu And Kashmir",
+        "Karnataka",
+        "Ladakh",
+        "Lakshadweep",
+        "Mizoram",
+        "Odisha",
+        "Puducherry",
+        "Punjab",
+        "Telangana",
+        "Tripura",
+        "Uttarakhand"
+      ],
+      "description": "States in cluster 0 exhibit similar enrollment patterns and demographic distributions."
+    },
+    {
+      "cluster_id": 1,
+      "states": [
+        "Arunachal Pradesh",
+        "Manipur",
+        "Meghalaya",
+        "Nagaland",
+        "Sikkim"
+      ],
+      "description": "States in cluster 1 exhibit similar enrollment patterns and demographic distributions."
+    },
+    {
+      "cluster_id": 2,
+      "states": [
+        "Bihar",
+        "Uttar Pradesh"
+      ],
+      "description": "States in cluster 2 exhibit similar enrollment patterns and demographic distributions."
+    },
+    {
+      "cluster_id": 3,
+      "states": [
+        "Chandigarh",
+        "Goa",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "description": "States in cluster 3 exhibit similar enrollment patterns and demographic distributions."
+    },
+    {
+      "cluster_id": 4,
+      "states": [
+        "Assam",
+        "Delhi",
+        "Gujarat",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "West Bengal"
+      ],
+      "description": "States in cluster 4 exhibit similar enrollment patterns and demographic distributions."
+    }
+  ],
+  "trend_classification": {
+    "overall_trend": "Strongly Increasing",
+    "total_change_percentage": 887.02,
+    "start_enrollment": 85662,
+    "end_enrollment": 845511
+  },
+  "confidence_scores": {
+    "national_forecast_stability": {
+      "score": 50,
+      "description": "Based on Prophet's 95% confidence interval for the last forecast month.",
+      "prediction_value": 0,
+      "interval_width": 0.0
+    },
+    "intervention_area_severity_stability": {
+      "score": 79.36,
+      "description": "Indicates consistency in severity scores across identified intervention areas.",
+      "std_dev_severity": 2.06
+    },
+    "anomaly_detection_robustness": {
+      "score": 98.9,
+      "description": "Reflects the proportion of detected anomalies relative to total records. Lower anomaly rate implies higher data consistency.",
+      "anomaly_rate": 0.0001
+    }
+  },
+  "auto_generated_insights": [
+    "**Overall Enrollment Trend**: The national Aadhaar enrollment shows a **strongly increasing** trend, with a total change of **887.02%** over the analyzed period. Starting at approximately 85,662 and ending at 845,511.",
+    "**Critical Intervention Needed**: The district of **Kanchipuram** in **Tamil Nadu** is identified as a critical area requiring immediate intervention (Severity Score: 7.00). This is primarily due to low child enrollment (0.00) and a sluggish growth rate (-1.00).",
+    "**Significant Demographic Disparity**: **Andamans** in **Andaman And Nicobar Islands** shows notable disparities, particularly in age groups like 5-17 (gap: 0.26), indicating uneven enrollment across demographics.",
+    "**Low Enrollment Season**: Enrollment consistently drops during **March, April, May, June, July, September, October**. Targeted campaigns might be needed during these months.",
+    "**Forecast Reliability**: The national enrollment forecast has a stability score of **50.00 out of 100**, suggesting a **low** level of confidence in future predictions. The current forecast for the next month is 0.",
+    "**Policy Recommendation**: The **'Anganwadi Integration'** policy (e.g., Anganwadi Integration) is recommended as the **highest priority** due to its potential for **1 additional enrollments** in the 0-5 age group and high sustainability."
+  ]
+}
