@@ -148,4 +148,4 @@ We believe every organization, regardless of technical skill, should be able to 
 
 Our mission is to turn every dataset into a strategic advantage.
 
-## Thankyou
+# Thankyou
