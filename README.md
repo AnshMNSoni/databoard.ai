@@ -121,8 +121,6 @@ Users can upload datasets in multiple formats including:
 
 - Automatic Schema & Data Understanding
 
-- No-Code Analytics
-
 - Interactive Data Visualization
 
 - AI Insight Generation
